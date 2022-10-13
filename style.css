@@ -1,0 +1,68 @@
+ body{
+    background-color: lightcyan;
+ }
+ .banner-bg{
+    background-color: #feeae9;
+    border-radius: 5px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.caro-btn{
+    background-color: rgb(199, 7, 87);
+    border: none;
+    border-radius: 5px;
+    padding: 8px 25px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: white;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.cat1{
+    background-image: linear-gradient(90deg,rgb(207, 207, 0),rgb(255, 255, 92));
+}
+.cat2{
+    background-image: linear-gradient(90deg,rgb(192, 6, 209),rgb(209, 92, 255));
+}
+.cat3{
+    background-image: linear-gradient(90deg,rgb(64, 92, 252),rgb(3, 21, 182));
+}
+.cat1,.cat2,.cat3{
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.categs img{
+    width: 100px;
+}
+.shoes-slide:active{
+    font-weight: bolder;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px gray;
+}
+.card-footer{
+    border-top: none;
+}
+.bag-price{
+    padding-left: 8px;
+}
+#contact{
+    background-color: #feeae9;
+    height: 400px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#email{
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    font-family: sans-serif;
+    border-radius: 4px;
+}
+.foot{
+    text-align: center;
+}
